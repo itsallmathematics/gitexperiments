@@ -29,5 +29,6 @@ Not sure what chapter 3 is about yet... Going to chapter 4...
 
 # Chapter 4
 
-This one will be about radare2
+## Summary
+radare2 is a disassembler, debugger, and has many other binary file utilities to view metadata, header info, strings, and even write your own shellcode. I am going to be discussing the tool in this chapter.
 
