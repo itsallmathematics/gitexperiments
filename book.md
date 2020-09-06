@@ -4,7 +4,7 @@ I am writing a book. This book is not meant to be read but instead used for git 
 
 # Chapter 1
 
-The text used to demo many websites used to be:
+The text used to demo many REALLYBADTYPO used to be:
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Porttitor lacus luctus accumsan tortor posuere ac. Sed cras ornare arcu dui vivamus. Purus viverra accumsan in nisl nisi. Neque volutpat ac tincidunt vitae semper. Tempor orci dapibus ultrices in iaculis nunc sed augue lacus. Mi proin sed libero enim sed faucibus turpis in eu. Non pulvinar neque laoreet suspendisse. Cursus turpis massa tincidunt dui ut ornare. Sapien pellentesque habitant morbi tristique senectus et netus et. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar. Interdum velit euismod in pellentesque massa placerat duis ultricies lacus. At augue eget arcu dictum varius duis. Blandit massa enim nec dui nunc mattis. At tellus at urna condimentum mattis.
