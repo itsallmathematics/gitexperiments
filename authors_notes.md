@@ -1,2 +1,3 @@
 1. Wrote Intro
-2. Next up, chapter 1!
+2. Added chapter 2
+3. Added ch 3 stub and began summary of chapter 4
