@@ -22,3 +22,12 @@ Now, I'm not sure what they use. I'm not a front-end developer.
 # Chapter 2
 
 Wordpress websites used to be heavily abused by hackers about 10 years ago. Since then, it seems Wordpress has a number of plugins that help user secure their websites much better. It is important to ensure that plugin authors are active in maintaining their plugins so that if any vulnerabilities are discovered, the plugin is patched quickly and a new update is pushed. It is the responsibility of Wordpress website administrators to check for these updates frequently and apply them.
+
+# Chapter 3
+
+Not sure what chapter 3 is about yet... Going to chapter 4...
+
+# Chapter 4
+
+This one will be about radare2
+
