@@ -18,3 +18,7 @@ Elit duis tristique sollicitudin nibh. Purus gravida quis blandit turpis cursus 
 Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Dolor sed viverra ipsum nunc aliquet. Et ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Tincidunt ornare massa eget egestas purus viverra. Morbi tincidunt ornare massa eget egestas purus viverra accumsan in. Gravida rutrum quisque non tellus orci ac auctor. Dignissim cras tincidunt lobortis feugiat vivamus. Mi eget mauris pharetra et ultrices neque ornare aenean euismod. Tempus egestas sed sed risus pretium quam vulputate dignissim. Pellentesque habitant morbi tristique senectus et netus. Ornare suspendisse sed nisi lacus sed viverra tellus in. Orci porta non pulvinar neque. Enim lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Convallis a cras semper auctor neque vitae tempus quam pellentesque. Tincidunt eget nullam non nisi est sit amet. Non quam lacus suspendisse faucibus interdum posuere.
 
 Now, I'm not sure what they use. I'm not a front-end developer.
+
+# Chapter 2
+
+Wordpress websites used to be heavily abused by hackers about 10 years ago. Since then, it seems Wordpress has a number of plugins that help user secure their websites much better. It is important to ensure that plugin authors are active in maintaining their plugins so that if any vulnerabilities are discovered, the plugin is patched quickly and a new update is pushed. It is the responsibility of Wordpress website administrators to check for these updates frequently and apply them.
